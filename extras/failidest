@@ -1,0 +1,4 @@
+svg - scalable vector graphics
+pc - python 2.7 numpy pickle failid. Avamiseks pythonis
+>>> content = pickle.load(open('filename')) # import pickle and numpy
+kõik muu tundmatu - tõenäoliselt UTF8 lihttekst (Unixi-stiilis \n realõppudega)

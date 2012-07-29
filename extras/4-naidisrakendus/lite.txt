@@ -1,0 +1,3 @@
+Lite versioon nõuab vähemate teekide olemasolu
+ja töötab kiiremini kui täielik näidisrakendus.
+Tulemus siiski päris nii hea ei ole.

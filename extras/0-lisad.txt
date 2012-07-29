@@ -1,0 +1,12 @@
+Lisa 1 Sõnapaaride kasutamine tunnustena (mõõtmistulemused)
+Lisa 2 7 võrreldud lahenduse üksikasjalikud tulemused
+Lisa 3 2 kirjade klassifitseerimiseks sobimatu lahenduse tulemused
+Lisa 4 Näidisrakendus kirjade klassifitseerimiseks
+Lisa 5 Näidisrakenduse ajakulu profiilid koos ja ilma keeletuvastuseta
+Lisa 6 Keeletuvastuse mõju klassifitseerimistulemusele
+Lisa 7 Lineaarsve tugivektorklassifitseerija tulemused erinevate parameetri C väärtustega
+Lisa 8 RBF kerneliga tugivektorklassifitseerija tulemused erinevate parameetrit C ja \(\gamma\) väärtustega
+Lisa 9 Multinomiaalse naiivse Bayesi klassifitseerija tulemused erinevate parameetri \(\alpha\) väärtustega
+Lisa 10 Lisatunnuste kasutamise mõju klassifitseerimistulemusele
+
+Kõik lisad on autori loodud.
