@@ -1,7 +1,7 @@
 This software originally accompanied my term paper in Tallinn Secondary Science
-School. The paper is included, but in accordance to school rules is also
-overwhelmingly verbose. In case somebody actually would want to read it, I advise
-them to skip to chapter 4 for results and maybe also read 3 for more details.
+School. The paper (in Estonian) is included, but in accordance to school rules is also
+overwhelmingly verbose. In case somebody actually would want to read it, I'd advise
+them to skip to chapter 4.
 
 # Dependencies
 Python 2.7 and scikit-learn 0.10. There is a more bloated version in the extras
